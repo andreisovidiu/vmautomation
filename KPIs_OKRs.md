@@ -1,3 +1,5 @@
+Note: third party apps such as Go High level are simply used as an example to convey the main idea.
+
 ## Key Performance Indicators (KPIs)
 
 | KPI                      | Description                                                  | Target Example                |

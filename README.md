@@ -81,5 +81,9 @@ A secure web interface is available to:
 
 ---
 
+## KPIs and OKRs
+https://github.com/andreisovidiu/vmautomation/blob/main/KPIs_OKRs.md
+
+
 > ⚠️ This tool is for internal use only. Not intended for client-facing operations.
 

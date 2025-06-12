@@ -4,7 +4,7 @@ This is an internal admin portal built to **automate VPS provisioning and deprov
 
 ---
 
-Note: third party apps such as Go High level are simply used as an example to convey the main idea.
+**Note: third party apps such as Go High level are simply used as an example to convey the main idea.**
 
 ## 🚀 Core Use Cases
 

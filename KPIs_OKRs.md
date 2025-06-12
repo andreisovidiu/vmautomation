@@ -1,16 +1,15 @@
 ## Key Performance Indicators (KPIs)
 
-| KPI                              Description                                                    | Target Example                        
-|------------------------------   |-------------------------------------------------------------- |-------------------------------
-| **Automation Success Rate**     | % of VPS created/deleted automatically without manual steps   | ≥ 95%                                 
-| **Average Provisioning Time**   | Time to create VPS after user subscription                      | ≤ 2 minutes                           
-| **Average Deprovisioning Time** | Time to delete VPS after subscription cancellation            | ≤ 2 minutes                        
-| **Webhook Processing Rate**     | % of Go High Level webhook events processed successfully      | ≥ 98%                              
-| **Manual Intervention Rate**    | Number of manual VPS creations/deletions per month            | ≤ 5 per month                      
-| **System Uptime**               | Portal availability and responsiveness                        | ≥ 99.9%                            
-| **Error Rate**                  | % of failed VPS automation tasks                              | ≤ 2%                               
-| **Admin Satisfaction Score**    | Admin user feedback rating of portal usability                | ≥ 4/5                              
-
+| KPI                      | Description                                                  | Target Example                |
+|--------------------------|--------------------------------------------------------------|------------------------------|
+| Automation Success Rate   | % of VPS created/deleted automatically without manual steps | ≥ 95%                        |
+| Average Provisioning Time| Time to create VPS after user subscription                   | ≤ 2 minutes                  |
+| Average Deprovisioning Time| Time to delete VPS after subscription cancellation           | ≤ 2 minutes                  |
+| Webhook Processing Rate  | % of Go High Level webhook events processed successfully     | ≥ 98%                        |
+| Manual Intervention Rate | Number of manual VPS creations/deletions per month           | ≤ 5 per month                |
+| System Uptime            | Portal availability and responsiveness                        | ≥ 99.9%                      |
+| Error Rate               | % of failed VPS automation tasks                              | ≤ 2%                         |
+| Admin Satisfaction Score | Admin user feedback rating of portal usability                | ≥ 4/5                        |
 ---
 
 ## Objectives and Key Results (OKRs)

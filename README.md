@@ -4,6 +4,8 @@ This is an internal admin portal built to **automate VPS provisioning and deprov
 
 ---
 
+Note: third party apps such as Go High level are simply used as an example to convey the main idea.
+
 ## 🚀 Core Use Cases
 
 ### 1. VPS Provisioning
@@ -78,6 +80,10 @@ A secure web interface is available to:
 - [ ] Setup admin panel for VPS tracking
 - [ ] Add logging, retries, and failure handling
 - [ ] Optional: Add metrics dashboard
+
+## Secondary features (brainstorming)
+- Stripe payment for immediate hardware upgrades
+
 
 ---
 
